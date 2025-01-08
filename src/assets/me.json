@@ -1,0 +1,12 @@
+{
+    "nombre": "Juan Pérez Medina",
+    "profesion": "Estudiante",
+    "bio":"bio",
+    "experiencia":[
+        {
+            "nombre":""
+        }
+    ],
+    "habilidades":["lomo","queso"]
+    
+}
