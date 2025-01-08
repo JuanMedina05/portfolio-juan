@@ -4,6 +4,11 @@
     "bio":"Entusiasta de la computación",
     "experiencia":[
         {
+            "nombre":"Grado medio en sistemas microinformáticos y redes",
+            "descripcion":"Estudio de informática en IES Francisco Ayala",
+            "fecha":"15/09/2021"
+        },
+        {
             "nombre":"CherQuel che cerchi TROVI ... se non trovi chiedi!",
             "descripcion":"PRÁCTICAS EN DIAGNÓSTICO Y REPARACIÓN ELECTRÓNICA",
             "fecha":"27/03/2023"
