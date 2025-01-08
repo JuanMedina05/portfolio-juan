@@ -1,12 +1,14 @@
 {
     "nombre": "Juan Pérez Medina",
-    "profesion": "Estudiante",
-    "bio":"bio",
+    "profesion": "Estudiante en primero de desarrollo de aplicaciones web",
+    "bio":"Entusiasta de la computación",
     "experiencia":[
         {
-            "nombre":""
+            "nombre":"CherQuel che cerchi TROVI ... se non trovi chiedi!",
+            "descripcion":"PRÁCTICAS EN DIAGNÓSTICO Y REPARACIÓN ELECTRÓNICA",
+            "fecha":"27/03/2023"
         }
     ],
     "habilidades":["lomo","queso"]
-    
+
 }
