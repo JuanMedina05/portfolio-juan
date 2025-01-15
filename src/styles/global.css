@@ -6,11 +6,28 @@ section{
     margin-right: auto;
     margin-left: auto;
 }
+.hero{
+    display:flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-direction: column ;
+    background-color:rgb(56, 58, 160);
+}
+.nombre{
+    font-size:72px;
+    line-height: 0;
+}
+.profesion{
+    font-size: 32px;
+}
 .experiencia{
     background-color: rgb(129, 152, 255);
     padding: 16px;
     border:5px solid black;
     border-radius: 11px;
+}
+article{
+    margin-bottom: 12px;
 }
 .exp-nombre{
     font-size: 20px;
@@ -34,4 +51,9 @@ section{
     margin: 0px;
     width: fit-content;
     
+}
+.envoltura-hab{
+    display:flex;
+    flex-wrap:wrap;
+    gap: 8px;
 }
